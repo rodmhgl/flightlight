@@ -3,6 +3,8 @@
 ##http://www.stuffaboutcode.com
 
 ##Description
+A fork of Martin O'Hanlon's FlightLight designed to work with a [PiGlow](https://shop.pimoroni.com/products/piglow)
+
 A python 3 program which will turn on an LED if an aircraft is detected overhead using [PiAware](http://flightaware.com/adsb/piaware)
 
 [http://www.stuffaboutcode.com/2015/10/piaware-aircraft-overhead-led.html](http://www.stuffaboutcode.com/2015/10/piaware-aircraft-overhead-led.html)
